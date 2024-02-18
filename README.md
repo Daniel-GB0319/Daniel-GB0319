@@ -26,7 +26,7 @@ Here's a glimpse of some projects I've worked on:
 ## Contact
 You can find me on the following platforms:
 
-- [LinkedIn](www.linkedin.com/in/daniel-gb0319)
+- [LinkedIn](https://www.linkedin.com/in/daniel-gb0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Facebook](Facebook_link)
 
 I'm always excited to collaborate on new projects and learn new things! Feel free to reach out.
