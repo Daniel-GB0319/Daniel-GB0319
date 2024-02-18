@@ -27,7 +27,7 @@ Here's a glimpse of some projects I've worked on:
 You can find me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-gb0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Facebook](Facebook_link)
+- [Facebook](https://www.facebook.com/Daniel.Gonzalez.20160?mibextid=ZbWKwL)
 
 I'm always excited to collaborate on new projects and learn new things! Feel free to reach out.
 
