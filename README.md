@@ -17,7 +17,7 @@ I'm passionate about the world of technology and programming. My goal is to crea
 ## Featured Projects
 Here's a glimpse of some projects I've worked on:
 
-1. [Project 1](link_to_repository): Project description.
+1. [Barro.On](https://github.com/Daniel-GB0319/proyecto-ch39): Barro.on is an e-commerce platform built with Bootstrap, Spring Boot, and MySQL, dedicated to expanding the reach of a community of creators who produce and sell unique clay jewelry and ceramic pieces. The platform also offers workshops on clay production, aiming to enhance learning and community creation.
 
 2. [Project 2](link_to_repository): Project description.
 
@@ -26,8 +26,7 @@ Here's a glimpse of some projects I've worked on:
 ## Contact
 You can find me on the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-gb0319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Facebook](https://www.facebook.com/Daniel.Gonzalez.20160?mibextid=ZbWKwL)
+- [LinkedIn](https://www.linkedin.com/in/gdaniel-gonzalezb/)
 
 I'm always excited to collaborate on new projects and learn new things! Feel free to reach out.
 
