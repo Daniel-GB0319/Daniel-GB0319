@@ -1,18 +1,28 @@
 # Hello, I'm Daniel González! 👋
 
-Welcome to my GitHub profile! I'm a software development enthusiast with a focus on cloud computing, backend development, and databases. I love working on challenging projects and learning new technologies. Here, you'll find an overview of my skills and areas of interest.
+Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a focus on frontend development using React.js and backend development primarily using Java with Spring Boot, as well as Python with Django. I love working on challenging projects and learning new technologies. Here, you'll find an overview of my skills and areas of interest.
+
+## Technologies
+
+| <img src="https://www.svgrepo.com/show/452234/java.svg" width="50" height="50" alt="Java Logo"> | <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="50" height="50" alt="Spring Boot Logo"> | <img src="https://www.svgrepo.com/show/355133/mysql.svg" width="50" height="50" alt="MySQL Logo"> | <img src="https://www.svgrepo.com/show/452092/react.svg" width="50" height="50" alt="React Logo"> | <img src="https://www.svgrepo.com/show/452091/python.svg" width="50" height="50" alt="Python Logo"> | <img src="https://www.svgrepo.com/show/373554/django.svg" width="50" height="50" alt="Django Logo"> | <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50" height="50" alt="PostgreSQL Logo"> | <img src="https://www.svgrepo.com/show/448274/azure.svg" width="50" height="50" alt="Azure Logo"> | <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="50" height="50" alt="Google Cloud Logo"> | <img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="50" height="50" alt="Linux Logo"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Java | Spring Boot | MySQL | React | Python | Django | PostgreSQL | Microsoft Azure | Google Cloud | Linux |
+
 
 ## About Me
-I'm passionate about the world of technology and programming. My goal is to create efficient and scalable solutions that address real-world problems. My expertise lies in backend development, cloud deployment, and database management.
+I'm passionate about the world of technology and programming. My goal is to create efficient and scalable solutions that address real-world problems. My expertise lies in both frontend and backend development.
+
 
 ## Skills
-- 💻 Backend Development: Crafting robust and scalable APIs using technologies like Django Rest Framework and Node.js.
-- ☁️ Cloud Computing: Experience in deploying and managing cloud-based applications, including AWS and Microsoft Azure.
-- 🗄️ Databases: Design, optimization, and administration of SQL databases (MySQL and PostgreSQL).
-- 🐍 Python: My preferred programming language for application development and task automation.
-- 🐳 Docker and Docker Compose: Creating and managing development environments using containers.
-- 🖥️ Operating Systems: Proficient in using GNU/Linux and Windows.
-- ☕ Java: Proficiency in Java development.
+- 💻 **Frontend Development**: Building dynamic and responsive user interfaces with React.js.
+- ☕ **Backend Development**: Developing enterprise applications and backend services primarily with Java 17 and Spring Boot.
+- 🐍 **Backend Development**: Crafting robust and scalable APIs using Django and Django REST Framework.
+- ☁️ **Cloud Computing**: Experience in deploying and managing cloud-based applications, including AWS and Microsoft Azure.
+- 🗄️ **Databases**: Design, optimization, and administration of SQL databases (MySQL and PostgreSQL).
+- 🐳 **Docker and Docker Compose**: Creating and managing development environments using containers.
+- 🖥️ **Operating Systems**: Proficient in using GNU/Linux and Windows.
+
+
 
 ## Featured Projects
 Here's a glimpse of some projects I've worked on:
